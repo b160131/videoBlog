@@ -18,9 +18,7 @@ import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-/**
- * Created by vedant on 2/17/2018.
- */
+
 
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
