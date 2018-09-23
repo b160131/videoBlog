@@ -27,9 +27,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by vedant on 4/1/2018.
- */
+
 
 public class VideosRecyclerViewAdapter3  extends RecyclerView.Adapter<VideosRecyclerViewAdapter3.MyViewHolder3>{
     int previousPosition = 0;
