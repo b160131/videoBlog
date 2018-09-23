@@ -1,8 +1,6 @@
 package com.apps4humanity.funny.prototype;
 
-/**
- * Created by vedant on 3/27/2018.
- */
+
 
 public class VideosRecyclerViewPrototype  {
 
