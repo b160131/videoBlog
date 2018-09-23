@@ -31,9 +31,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
-/**
- * Created by vedant on 3/27/2018.
- */
+
 
 public class VideosRecyclerViewAdapter extends RecyclerView.Adapter<VideosRecyclerViewAdapter.MyViewHolder> {
 
