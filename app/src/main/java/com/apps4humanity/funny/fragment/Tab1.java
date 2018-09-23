@@ -29,9 +29,7 @@ import com.google.firebase.database.ValueEventListener;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-/**
- * Created by vedant on 3/27/2018.
- */
+
 
 public class Tab1 extends Fragment {
     private InterstitialAd mInterstitialAd;
