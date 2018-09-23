@@ -18,9 +18,7 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-/**
- * Created by vedant on 4/1/2018.
- */
+
 
 public class VideosRecyclerViewDataTab3 {
 
