@@ -9,9 +9,7 @@ import android.view.ViewGroup;
 import com.apps4humanity.funny.R;
 
 
-/**
- * Created by vedant on 3/27/2018.
- */
+
 
 public class Tab4 extends Fragment {
 
