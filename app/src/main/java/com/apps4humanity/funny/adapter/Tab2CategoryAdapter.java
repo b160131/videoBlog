@@ -21,9 +21,6 @@ import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
-/**
- * Created by vedant on 4/12/2018.
- */
 
 public class Tab2CategoryAdapter extends RecyclerView.Adapter<Tab2CategoryAdapter.MyViewHolder> {
 
