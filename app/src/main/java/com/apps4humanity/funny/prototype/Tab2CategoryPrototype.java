@@ -1,8 +1,6 @@
 package com.apps4humanity.funny.prototype;
 
-/**
- * Created by vedant on 4/12/2018.
- */
+
 
 public class Tab2CategoryPrototype {
     public String image_url, title_category, num_videos, desc;
