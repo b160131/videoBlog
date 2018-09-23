@@ -16,9 +16,7 @@ import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
 
-/**
- * Created by vedant on 4/12/2018.
- */
+
 
 public class Tab2CategoryData {
     public Context context;
