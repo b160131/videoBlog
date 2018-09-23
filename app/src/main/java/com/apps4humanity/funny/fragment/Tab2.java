@@ -22,9 +22,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
-/**
- * Created by vedant on 3/27/2018.
- */
+
 
 public class Tab2 extends Fragment {
     RecyclerView recyclerView;
